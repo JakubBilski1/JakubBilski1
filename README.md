@@ -6,7 +6,6 @@ Full-stack developer and co-founder of **[PB Devs](https://pbdevs.com)**, a soft
 
 - **[Parkownia](https://github.com/JakubBilski1/Parkownia)** – parking marketplace for event-heavy areas of Poznań. Next.js, PostgreSQL + PostGIS, MapLibre, Docker.
 - **[Na Baku](https://nabaku.pl)** – community fuel-price map for Polish drivers. React Native (Expo), Supabase.
-- **[CheetahBooking](https://github.com/CheetahBookin/PawProject)** – hotel booking system, team project. Next.js, Node.js, MySQL, Docker.
 - Client work at PB Devs: company websites, CRMs and internal tools, self-hosted in Docker.
 
 ### Stack
